@@ -557,7 +557,7 @@ We welcome contributions! Whether you're fixing bugs, adding features, or improv
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Full-FREE-SEO-TOOL.git
+   git clone https://github.com/YOUR_USERNAME/Full-FREE-SEO.git
    cd seo-audit-app
    ```
 3. **Create a feature branch**:
@@ -692,7 +692,7 @@ npm install package-name
 npm install --save-dev package-name
 ```
 
-**Update this list in `.github/CONTRIBUTING.md` if adding major dependencies.**
+
 
 ### Current Dependency Constraints
 
@@ -715,7 +715,6 @@ npm install --save-dev package-name
 - **Local LLM Support**: Ollama and LiteLLM proxy for privacy-focused deployments
 - **API & Webhooks**: Programmatic access via REST API and event-driven workflows
 
-See [Issues](https://github.com/KuyaMecky/Full-FREE-SEO-TOOL/issues) for community-requested features.
 
 ---
 
@@ -741,11 +740,7 @@ See [Issues](https://github.com/KuyaMecky/Full-FREE-SEO-TOOL/issues) for communi
 - Reduce word count target or content length in generation options
 - Consider upgrading to a paid AI provider plan
 
-### Getting Help
 
-- 📖 [GitHub Issues](https://github.com/KuyaMecky/Full-FREE-SEO-TOOL/issues) — Report bugs and request features
-- 💬 [GitHub Discussions](https://github.com/KuyaMecky/Full-FREE-SEO-TOOL/discussions) — Ask questions and discuss ideas
-- 📧 Email: Tallada88@gmail.com
 
 ---
 
@@ -757,12 +752,7 @@ You are free to use, modify, and distribute this software for personal and comme
 
 ---
 
-## Acknowledgments
 
-Built with ❤️ by [KuyaMecky](https://github.com/KuyaMecky)
-
-Special thanks to:
-- [Anthropic](https://www.anthropic.com/) for Claude AI
 - [Google](https://google.com/) for Search Console API
 - [Vercel](https://vercel.com/) for hosting and Next.js
 - [Neon](https://neon.tech/) for serverless PostgreSQL
